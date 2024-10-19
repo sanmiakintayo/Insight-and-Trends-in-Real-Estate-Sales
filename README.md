@@ -1,7 +1,7 @@
 # Insight-and-Trends-in-Real-Estate-Sales
 
 ### Project Overview
-This project aims to analyze real estate sales data spanning from 2001 to 2021. The goal is to uncover trends, patterns, and insights that can inform future real estate investments and market strategies.
+This project analyzes real estate sales data from 2001 to 2021. The goal is to uncover trends, patterns, and insights that can inform future real estate investments and market strategies.
 
 ### Objectives
 •	Identify Market Trends: Examine how property prices have evolved over the years and the impact of economic events on these trends.
