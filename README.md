@@ -8,18 +8,16 @@ This project analyzes real estate sales data from 2001 to 2021. The goal is to u
 ### Objectives
 - Identify Market Trends: Examine how property prices have evolved over the years and the impact of economic events on these trends.
 -	Assess Property Value Fluctuations: Compare assessed values with sale amounts to evaluate the accuracy of property assessments.
--	Segment Analysis by Property Type: Analyze sales trends across different property types (e.g., residential, commercial) to identify growth areas.
+-	Segment Analysis by Property Type: Analyze sales trends across different property types.
 -	Geographical Analysis: Investigate real estate trends across various towns to pinpoint high-growth areas.
 -	Seasonal Patterns: Determine if there are seasonal trends in real estate sales to identify optimal buying and selling periods.
--	Impact of Residential Type: Analyze sales data based on residential types (e.g., single-family homes, apartments) to understand market preferences.
+-	Impact of Residential Type: Analyze sales data based on residential types.
 
 ### Methods
 -	Data was obtained from Data.gov
--	Data cleaning, transformation was  done with PowerQuery
+-	Data cleaning and transformation were  done with PowerQuery
 -	Data modelling was done in PowerBI
--	Data analyses was done with Excel,  PowerBI, SQL
--	Segment Analysis by Property
--	Segment Analysis by Property
+-	Data analyses were done with Excel,  PowerBI, SQL
 
 ### Key Performance Indicators (KPIs)
 -	Average Sale Price: The mean sale price of properties over a specific period.
