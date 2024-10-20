@@ -7,7 +7,7 @@ This project analyzes real estate sales data from 2001 to 2021. The goal is to u
 
 ### Objectives
 •	Identify Market Trends: Examine how property prices have evolved over the years and the impact of economic events on these trends.
-•	Assess Property Value Fluctuations: Compare assessed values with sale amounts to evaluate the accuracy of property assessments.
+-	Assess Property Value Fluctuations: Compare assessed values with sale amounts to evaluate the accuracy of property assessments.
 •	Segment Analysis by Property Type: Analyze sales trends across different property types (e.g., residential, commercial) to identify growth areas.
 •	Geographical Analysis: Investigate real estate trends across various towns to pinpoint high-growth areas.
 •	Seasonal Patterns: Determine if there are seasonal trends in real estate sales to identify optimal buying and selling periods.
