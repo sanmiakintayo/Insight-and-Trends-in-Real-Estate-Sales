@@ -33,12 +33,16 @@ This project analyzes real estate sales data from 2001 to 2021. The goal is to u
 -	Assessed Value to Sale Price Ratio: The ratio of assessed value to actual sale price, indicating the accuracy of property assessments.
 -	Geographical Distribution of Sales: The number of properties sold in different towns or regions.
 -	Property Type Distribution: The proportion of sales by property type (e.g., residential, commercial).
+![Trend analysis](https://github.com/user-attachments/assets/124ca239-2bc3-4a8d-84d5-13539c8c4d24)
 
 ### Insights
 -	Sales Volume: The total number of properties sold within a given period.
 -	Assessed Value to Sale Price Ratio: The ratio of assessed value to actual sale price, indicating the accuracy of property assessments.
 -	Geographical Distribution of Sales: The number of properties sold in different towns or regions.
 -	Property Type Distribution: The proportion of sales by property type (e.g., residential, commercial).
+![Sale by property type](https://github.com/user-attachments/assets/247025ad-2f59-47c3-a7f6-d77c7fa474e2)
+
+![Sale by residential type](https://github.com/user-attachments/assets/8158ad2e-0177-4550-9160-108dbe851577)
 
 ![Sale Data Details Visualisation in PowerBI](https://github.com/user-attachments/assets/2919c387-0eca-410f-acfc-b97f457de86c)
 
