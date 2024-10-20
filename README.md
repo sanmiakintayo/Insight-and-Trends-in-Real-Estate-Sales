@@ -14,24 +14,24 @@ This project analyzes real estate sales data from 2001 to 2021. The goal is to u
 -	Impact of Residential Type: Analyze sales data based on residential types (e.g., single-family homes, apartments) to understand market preferences.
 
 ### Methods
-•	Data was obtained from Data.gov
-•	Data cleaning, transformation was  done with PowerQuery
-•	Data modelling was done in PowerBI
-•	Data analyses was done with  
-•	Segment Analysis by Property
-•	Segment Analysis by Property
+-	Data was obtained from Data.gov
+-	Data cleaning, transformation was  done with PowerQuery
+-	Data modelling was done in PowerBI
+-	Data analyses was done with Excel,  PowerBI, SQL
+-	Segment Analysis by Property
+-	Segment Analysis by Property
 
 ### Key Performance Indicators (KPIs)
-•	Average Sale Price: The mean sale price of properties over a specific period.
-•	Median Sale Price: The middle value of sale prices, providing a better sense of typical property values.
-•	Price Appreciation Rate: The percentage increase in property prices over time.
-•	Sales Volume: The total number of properties sold within a given period.
-•	Days on Market: The average number of days properties stay on the market before being sold.
-•	Sale-to-List Price Ratio: The ratio of the sale price to the list price, indicating how close properties are selling to their asking prices.
-•	Assessed Value to Sale Price Ratio: The ratio of assessed value to actual sale price, indicating the accuracy of property assessments.
-•	Geographical Distribution of Sales: The number of properties sold in different towns or regions.
-•	Property Type Distribution: The proportion of sales by property type (e.g., residential, commercial).
-•	Seasonal Sales Trends: Analysis of sales volume and prices by season or quarter.
+-	Average Sale Price: The mean sale price of properties over a specific period.
+-	Median Sale Price: The middle value of sale prices, providing a better sense of typical property values.
+-	Price Appreciation Rate: The percentage increase in property prices over time.
+-	Sales Volume: The total number of properties sold within a given period.
+-	Days on Market: The average number of days properties stay on the market before being sold.
+-	Sale-to-List Price Ratio: The ratio of the sale price to the list price, indicating how close properties are selling to their asking prices.
+-	Assessed Value to Sale Price Ratio: The ratio of assessed value to actual sale price, indicating the accuracy of property assessments.
+-	Geographical Distribution of Sales: The number of properties sold in different towns or regions.
+-	Property Type Distribution: The proportion of sales by property type (e.g., residential, commercial).
+-	Seasonal Sales Trends: Analysis of sales volume and prices by season or quarter.
 
 ![Sale Data Visualisation in PowerBI](https://github.com/user-attachments/assets/8bacf0ed-1cc8-48b1-ab16-b2f002d3b222)
 
