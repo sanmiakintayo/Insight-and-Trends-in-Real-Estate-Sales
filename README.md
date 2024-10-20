@@ -18,6 +18,7 @@ This project analyzes real estate sales data from 2001 to 2021. The goal is to u
 -	Data cleaning and transformation were  done with PowerQuery
 -	Data modelling was done in PowerBI
 -	Data analyses were done with Excel,  PowerBI, SQL
+-	Data visualisation and report done with PowerBI
 
 ### Key Performance Indicators (KPIs)
 -	Sales Target
