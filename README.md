@@ -1,4 +1,4 @@
-# Insight-and-Trends-in-Real-Estate-Sales
+# Insights-and-Trends-in-Real-Estate-Sales
 
 ![real estate sales analysis blog image](https://github.com/user-attachments/assets/2d2a2af8-ca7c-49cd-9c86-6429ef4f1701)
 
@@ -51,7 +51,7 @@ This project analyzes real estate sales data from 2001 to 2021. The goal is to u
 
 ### Report Detail
 
-- Further report detail were provided in the powerBI report for several analysis including
+- Further report detail were provided in the powerBI report for several analyses.
 
 ![Sale Data Details Visualisation in PowerBI](https://github.com/user-attachments/assets/2919c387-0eca-410f-acfc-b97f457de86c)
 
