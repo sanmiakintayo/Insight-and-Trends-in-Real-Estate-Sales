@@ -1,6 +1,6 @@
 # Insight-and-Trends-in-Real-Estate-Sales
 
-![image](https://github.com/user-attachments/assets/e9caf141-6da3-4954-88ad-80fde69291aa)
+![real estate sales analysis blog image](https://github.com/user-attachments/assets/2d2a2af8-ca7c-49cd-9c86-6429ef4f1701)
 
 ### Project Overview
 This project analyzes real estate sales data from 2001 to 2021. The goal is to uncover trends, patterns, and insights that can inform future real estate investments and market strategies.
